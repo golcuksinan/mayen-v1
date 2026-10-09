@@ -69,8 +69,9 @@ Some findings:
 
 ## Built with
 
-Python (asyncio) · llama.cpp (`llama-server`) · Kokoro TTS · SQLite · WebSockets · PySide6 · httpx · structlog ·
-pytest, ruff, mypy · systemd
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-333333?style=for-the-badge) ![Kokoro](https://img.shields.io/badge/Kokoro_TTS-6E40C9?style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge) ![Qt](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-30D475?style=for-the-badge&logo=linux&logoColor=black)
+
+Also: asyncio, httpx, structlog, ruff, mypy.
 
 ## What did not get done
 
